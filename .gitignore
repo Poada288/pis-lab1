@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
+.local_secret
+Доступ.txt
+Скриншоты/
+*.docx
